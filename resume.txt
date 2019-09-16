@@ -1,3 +1,7 @@
 name: zabi
 occupation: unemployed
 Objective: to be admired and remembered for good things
+Hobbies: reading books
+Preferred money: 
+Payment: good
+
